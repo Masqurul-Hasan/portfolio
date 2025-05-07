@@ -1,0 +1,7 @@
+npm create vite@latest ./ -- --template react
+
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+
+Get-ExecutionPolicy
+
+Get-ExecutionPolicy -list
